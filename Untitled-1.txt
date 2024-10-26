@@ -1,0 +1,35 @@
+frontend---->{
+->interface to the hotel without authorization
+->login page
+->Introduction page without authenication
+->booking page for costumer
+->adding hotels page for admin
+->location wise rendering
+->admin interface
+->admin hotel adding with location
+->
+
+
+}
+
+backend---->{
+
+-->routes to create users
+-->routes to create admins or owners
+-->authenication and authorization
+-->
+-->
+-->
+
+
+}
+
+database --->{
+
+--->userModel
+--->adminModel
+--->hotelModel and location
+--->link between hotelModel and adminModel
+--->
+
+}

@@ -1,7 +1,6 @@
 frontend---->{
-->interface to the hotel without authorization
-->login page
-->Introduction page without authenication
+-> User interface to the hotel without authorization --
+->login page 
 ->booking page for costumer
 ->adding hotels page for admin
 ->location wise rendering

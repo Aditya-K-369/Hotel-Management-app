@@ -1,4 +1,5 @@
 
+import AdminCreate from './components/AdminCreate';
 import Login from './components/login'
 import UserInterface from './components/UserInterface';
 import UserInterface1 from './components/UserInterface1';
@@ -9,7 +10,8 @@ function App() {
     <>
     {/* <Login/> */}
     {/* <UserInterface/> */}
-    <UserInterface1/>
+    {/* <UserInterface1/> */}
+    <AdminCreate/>
     </>
   )
 }
